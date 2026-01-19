@@ -85,7 +85,7 @@ O dashboard foi desenvolvido em uma aba única (**Dashboard**), priorizando **cl
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/dashboard-gerencial-xbox.git
+git clone (https://github.com/julianaforgati/XBOX-GAME-PASS-SUBSCRIPTIONS-SALES)
 
 2. Abra o arquivo do dashboard:
 
