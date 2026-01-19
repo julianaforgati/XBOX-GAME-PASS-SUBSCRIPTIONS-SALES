@@ -90,7 +90,7 @@ git clone (https://github.com/julianaforgati/XBOX-GAME-PASS-SUBSCRIPTIONS-SALES)
 2. Abra o arquivo do dashboard:
 
 Copiar código
-dashboard/dash.xlsx
+dashboard/XBOX Game Pass Subscriptions Sales.xlsx
 
 3. No Excel:
 
