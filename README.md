@@ -84,14 +84,15 @@ O dashboard foi desenvolvido em uma aba única (**Dashboard**), priorizando **cl
 ## ▶️ Instruções para Reprodução
 
 1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/dashboard-gerencial-xbox.git
-Abra o arquivo do dashboard:
 
-bash
+git clone https://github.com/seu-usuario/dashboard-gerencial-xbox.git
+
+2. Abra o arquivo do dashboard:
+
 Copiar código
 dashboard/dash.xlsx
-No Excel:
+
+3. No Excel:
 
 A base de dados deve estar estruturada como Tabela
 
